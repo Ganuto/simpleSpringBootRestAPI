@@ -49,7 +49,7 @@
 		<dependency>
 			<groupId>com.github.Ganuto</groupId>
 			<artifactId>jitLibTest</artifactId>
-			<version>ce8e067595</version>
+			<version>9dd5c3a34a</version>
 		</dependency>
 
 	</dependencies>
